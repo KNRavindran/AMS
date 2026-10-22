@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Images/PaymentQR.png</file>
-    </qresource>
-</RCC>

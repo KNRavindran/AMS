@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/AMS/">
+    <file alias="QML/BillGeneration.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/BillGeneration.qml</file>
+    <file alias="QML/Main.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/Main.qml</file>
+    <file alias="QML/Screens/FlatMasterScreen.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/Screens/FlatMasterScreen.qml</file>
+    <file alias="QML/Screens/MeterReading.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/Screens/MeterReading.qml</file>
+    <file alias="QML/BillListPage.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/BillListPage.qml</file>
+    <file alias="QML/BillListScreen.qml">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/QML/BillListScreen.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="Resources/Images/PaymentQR.png">C:/Users/ADMIN/Desktop/Plan/AMS/AMS/Resources/Images/PaymentQR.png</file>
+  </qresource>
+</RCC>
+

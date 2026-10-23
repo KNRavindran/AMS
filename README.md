@@ -10,8 +10,8 @@ based on electricity meter readings that are on taken monthly basis and eneterd 
 
 Software used to create AMS
 ===============================
-QT 6.11 utilizing QT widgets
-SQLite.
+1) QT 6.11 utilizing QT widgets
+2) SQLite.
 
 How to build code and run AMS:
 =====================================
@@ -21,4 +21,3 @@ Curently AMS is developed to run in Windows OS.
 3) From QT creator, open project- and browse to folder \AMS\AMS and open CMakeLists.txt. AMS project loads into QT creator
 4) From QT creator menu bar, choose Build-> Build project "AMS". Ensure the build is successful.
 5) From Build menu, choose "Run" or press Ctrl+R. Now you will be seeing AMS running.
-
